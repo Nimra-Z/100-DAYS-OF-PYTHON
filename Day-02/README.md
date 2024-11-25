@@ -1,4 +1,4 @@
-**Day 2: Variables, Data Types, and Type Casting**
+## **Day 2: Variables, Data Types, and Type Casting**
 
 
 ## **What I Learned**

@@ -1,5 +1,4 @@
-**Day 2: Variables, Data Types, and Type Casting**
-
+## **Day 2: Variables, Data Types, and Type Casting**
 
 ## **What I Learned**
 Today, I learned:
@@ -133,4 +132,4 @@ print(f"Hello, {name}! Next year, you will be {age + 1} years old.")
 ```
 
 ## **What's Next?**
-On **Day 3**, we will dive into **Conditionals (`if`, `else`, `elif`) and Logical Operators**.
+On **Day 3**, we will dive into **Basic I/O and string manipulations**.

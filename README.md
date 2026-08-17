@@ -1,4 +1,4 @@
-# 100-DAYS-OF-PYTHON.
+# 100-DAYS-OF-PYTHON
 
 ### **Day 1–20: Beginner Level**
 1. **Basics of Python**  

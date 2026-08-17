@@ -117,4 +117,4 @@
    - Day 89: Building a chatbot with `NLTK` or `transformers`.  
 
 7. **Capstone Project**  
-   - Day 90–100: End-to-end project (e.g., an e-commerce platform, a machine learning pipeline, or a portfolio website).  
+   - Day 90–100: End-to-end project (e.g., an e-commerce platform, a machine learning pipeline, or a portfolio website). 
